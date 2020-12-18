@@ -1,5 +1,8 @@
 # *DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis*
 
+- 2020.12.18 (Shinagawa): converted to python3
+
+
 ### Introduction
 This project page provides pytorch code that implements the following CVPR2019 paper:
 
